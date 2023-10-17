@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/jira-0052CC.svg?style=flat&logo=jirasoftware&logoColor=white">
 
 💡 Blog 💡 <br/><br/>
-<img src="https://img.shields.io/badge/velog-20C997.svg?style=flat&logo=velog&logoColor=white">
+<a href="https://velog.io/@mantaray">
+  <img src="https://img.shields.io/badge/velog-20C997.svg?style=flat&logo=velog&logoColor=white">
+<a/>
 
 📫 Email 📫 <br/>
 ```
