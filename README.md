@@ -35,4 +35,4 @@ daewha1021@gmail.com
 
 ## 👨🏻‍💻 Project Summary
 - 2023.08.21 ~ 2023.10.06　　Conseller
-- 2023.07.04 ~ 2023.08.18　　개운해
+- 2023.07.04 ~ 2023.08.18　　[개운해](https://github.com/daehwa-park/GaeWoonHae)
