@@ -47,3 +47,5 @@ daewha1021@gmail.com
   - 3-match 보드 씬과 게임 메인 로직, 스토리 씬을 구현함.
  
 ## ✨ Project LIST
+- [Conseller 프로젝트 설명](https://marsh-engineer-80a.notion.site/Conseller-c8e76d75e38a4ebf95618b43c34ca254?pvs=4)
+- [개운해 프로젝트 설명](https://marsh-engineer-80a.notion.site/GaeWoonHae-f5cbb1beec3640f0bf7af04a71c1c56f?pvs=4)
