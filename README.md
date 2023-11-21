@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=daehwa's%20Portfolio&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=daehwa's%20Github&fontSize=80)
 
 ## 🛫새로운 기술을 학습하고 도입하는 것을 즐기는 개발자 박대화입니다!
 
