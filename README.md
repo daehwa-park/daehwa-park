@@ -67,6 +67,6 @@
 <br/>
 
 ## ✨ Project LIST
-- [실전압축면접 프로젝트 설명](https://www.notion.so/98f183ea1aaf42bdb8c2700caeac7c41?p=d4cc549778e94cd995199a0a6c4644cf&pm=c)
+- [실전압축면접 프로젝트 설명](https://marsh-engineer-80a.notion.site/d4cc549778e94cd995199a0a6c4644cf?pvs=4)
 - [Conseller 프로젝트 설명](https://marsh-engineer-80a.notion.site/Conseller-c8e76d75e38a4ebf95618b43c34ca254?pvs=4)
 - [개운해 프로젝트 설명](https://marsh-engineer-80a.notion.site/GaeWoonHae-f5cbb1beec3640f0bf7af04a71c1c56f?pvs=4)
