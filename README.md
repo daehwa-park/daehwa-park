@@ -56,13 +56,10 @@
     - OpenAI API를 통해 질문을 생성하였고, 질문의 질을 높이기 위해 프롬프트 엔지니어링을 함. React에서 STT/TTS 기술을 사용하여 질문을 소리로 들려주고 답변을 텍스트로 변환함.
 - 2023.08.21 ~ 2023.10.06　Conseller [github](https://github.com/daehwa-park/Conseller)
     - OCR을 통해 기프티콘을 등록하여 관리하고 물물교환, 경매, 구매/판매를 할 수 있는 플랫폼
-    - 경매와 구매/판매, 문의 CRUD 기능을 구현하였고, Firebase를 이용해 알림 기능을 구현함.
+    - 경매와 구매/판매, 문의 CRUD와 기프티콘 거래 비즈니스 로직을 구현하였고, Firebase를 이용해 알림 기능을 구현함.
 - 2023.07.04 ~ 2023.08.18　개운해 [github](https://github.com/daehwa-park/GaeWoonHae)
     - WebRTC 기반 바디 레크리에이션 서비스
-    - 얼굴을 인식하여 얼굴에 이모티콘을 합성하는 기능과 Teachable Machine을 통해 동작을 인식하여 채점하는 로직을 구현하였고, AWS EC2에 배포 하였음.
-- 2022.08.01 ~ 2022.09.24　Two Little Prince [github](https://github.com/daehwa-park/projectL)
-    - 유니티 기반 어린왕자 동화 컨셉의 3-match 퍼즐게임
-    - 3-match 보드 씬과 게임 메인 로직, 스토리 씬을 구현함.
+    - 얼굴을 인식하여 얼굴에 이모티콘을 합성하는 기능과 Teachable Machine을 통해 동작을 인식하여 채점하는 로직을 구현하였고, AWS EC2에 Docker 컨테이너를 사용하여 배포 하였음.
 
 <br/>
 
